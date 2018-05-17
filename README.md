@@ -1,2 +1,4 @@
 # seu-libmybatis
-mybatis generic mapper， auto autowire  mapper file 
+mybatis generic mapper；
+based tk.mybatis;
+auto autowire  mapper file;
